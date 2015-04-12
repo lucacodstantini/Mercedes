@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">#9E9E9E</item>
+        <item name="android:colorPrimaryDark">#616161</item>
+        <item name="android:navigationBarColor">#424242</item>
+        <item name="fontPath">fonts/Pacifico.ttf</item>
+    </style>
+</resources>
